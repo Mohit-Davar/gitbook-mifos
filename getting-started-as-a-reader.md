@@ -1,12 +1,3 @@
----
-description: >-
-  This guide introduces readers to the platform and explains how to browse
-  articles, search for topics, follow authors, bookmark content, engage with
-  discussions, and manage account preferences.
----
-
-# Getting Started as a Reader
-
 ## Getting Started as a Reader
 
 Welcome to the Owlog! This guide will help you navigate the platform and discover content that matches your interests. Whether you're here to read the latest technology articles, follow your favorite authors, or save articles for later, this documentation covers everything you need to get started.
