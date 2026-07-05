@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Welcome](welcome.md)
+* [Welcome](README.md)
 * [Getting started](getting-started/getting-started.md)
-  * [Creating an account](getting-started/creating-an-account/.md)
+  * [Creating an account](getting-started/creating-an-account/README.md)
     * [Verifying your email](getting-started/creating-an-account/verifying-your-email.md)
     * [Resetting your password](getting-started/creating-an-account/resetting-your-password.md)
   * [Signing in](getting-started/signing-in.md)
