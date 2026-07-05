@@ -1,196 +1,190 @@
-## Getting Started as a Reader
+# Getting Started as a Reader
 
-Welcome to the Owlog! This guide will help you navigate the platform and discover content that matches your interests. Whether you're here to read the latest technology articles, follow your favorite authors, or save articles for later, this documentation covers everything you need to get started.
+## Reader Guide
 
-***
+Welcome to **Owlog**. This guide introduces the main features available to readers and explains how to discover, save, and interact with content across the platform.
 
-### Creating an Account
+### What you can do
 
-While you can browse many public articles without signing in, creating an account unlocks additional features.
+With Owlog, you can:
 
-With an account, you can:
-
-* Bookmark articles.
+* Discover articles across different topics.
+* Search for authors, articles, and tags.
+* Save articles to read later.
 * Follow your favorite authors.
-* Like and comment on posts.
-* Receive personalized recommendations.
-* Get notifications about new content.
-* Access your reading history.
-
-To create an account, select **Sign Up** and complete the registration process.
+* Join discussions through comments and reactions.
+* Manage your profile and account preferences.
 
 ***
 
-### Exploring Articles
+## Get started
 
-The homepage displays a curated feed of recent and popular articles.
+### Create an account
 
-You can discover content through:
+You can browse publicly available articles without signing in. However, some features require an account.
+
+Sign in or create an account to:
+
+* Save articles to your bookmarks.
+* Follow authors.
+* Like and comment on articles.
+* Receive personalized recommendations.
+* View your reading history.
+* Manage your notification preferences.
+
+To create an account:
+
+1. Select **Sign Up** from the navigation bar.
+2. Complete the registration form.
+3. Verify your email address if prompted.
+4. Sign in to access reader features.
+
+***
+
+## Find content
+
+### Browse articles
+
+Use the homepage to explore available content.
+
+Depending on the platform, you may see:
 
 * Featured articles
+* Latest articles
 * Trending topics
-* Latest posts
-* Recommended articles
 * Categories
 * Author profiles
 
-The content shown may become more personalized based on your reading activity.
+Select any article to begin reading.
 
-***
+### Search for content
 
-### Searching for Content
+Use the **Search** bar to find content quickly.
 
-Use the search bar to quickly find articles, topics, or authors.
+You can search by:
 
-You can search using:
-
-* Article titles
+* Article title
 * Keywords
 * Tags
 * Categories
 * Author names
 
-Search results can be filtered by popularity, publication date, or category to help you find relevant content faster.
+If filters are available, refine results by selecting the appropriate options to narrow your search.
 
 ***
 
-### Reading Articles
+## Read and save
 
-Each article includes:
+### Read articles
+
+Each article may include:
 
 * Title
 * Author information
 * Publication date
-* Estimated reading time
+* Reading time
 * Tags
 * Related articles
 
-Use the table of contents, when available, to navigate longer articles more efficiently.
+For longer articles, use the **Table of Contents** to jump directly to specific sections.
+
+### Save articles
+
+To save an article for later:
+
+1. Open the article.
+2. Select the **Bookmark** icon.
+3. Access your saved articles from your **Library** or **Bookmarks** page after signing in.
 
 ***
 
-### Bookmarking Articles
+## Follow and interact
 
-If you want to save an article for later, click the **Bookmark** icon.
+### Follow authors
 
-Bookmarked articles are stored in your personal library, making it easy to revisit them from any device after signing in.
+Follow authors to easily find their latest work.
 
-***
+To follow an author:
 
-### Following Authors
+1. Open the author's profile.
+2. Select **Follow**.
 
-Follow authors whose content you enjoy to stay updated with their latest publications.
+Any updates you receive depend on your notification settings.
 
-Once you follow an author, you'll receive notifications whenever they publish new articles, depending on your notification preferences.
+### Interact with articles
 
-***
+You can engage with content by:
 
-### Liking and Commenting
-
-You can interact with articles by:
-
-* Liking posts
+* Liking articles
 * Posting comments
-* Replying to other readers
-* Sharing articles with friends
+* Replying to discussions
+* Sharing article links
 
-Please keep discussions respectful and follow the community guidelines.
+Help maintain a positive community by following the platform's community guidelines when participating in discussions.
 
 ***
 
-### Sharing Articles
+## Personalize your experience
 
-Share articles with others using the available sharing options.
+Recommendations may be based on your activity, such as:
+
+* Reading history
+* Followed authors
+* Saved articles
+* Topics you engage with
+
+As you continue using Owlog, recommendations may become more relevant to your interests.
+
+***
+
+## Manage your account
+
+### Profile
+
+From your profile, you can:
+
+* Update your profile picture
+* Change your display name
+* Edit your bio
+* View bookmarked articles
+* Review your reading history
+* Manage followed authors
+
+### Settings
+
+Open **Settings** to manage your account preferences.
 
 You can:
 
-* Copy the article link.
-* Share on social media.
-* Send articles through messaging apps or email.
-
-Sharing helps others discover useful content while supporting the authors.
-
-***
-
-### Personalized Recommendations
-
-The platform recommends articles based on:
-
-* Your reading history
-* Topics you follow
-* Authors you follow
-* Previously bookmarked content
-* Popular content within your interests
-
-Recommendations improve over time as you continue using the platform.
+* Change your password
+* Update your email address
+* Manage notification preferences
+* Configure privacy settings
+* Enable two-factor authentication (if available)
+* Delete your account
 
 ***
 
-### Notifications
+## Tips
 
-Stay informed about activity related to your account.
+To get the most from Owlog:
 
-You may receive notifications when:
-
-* An author you follow publishes a new article.
-* Someone replies to your comment.
-* Your comment receives reactions.
-* New articles are recommended for you.
-
-Notification preferences can be managed from your account settings.
-
-***
-
-### Managing Your Profile
-
-Your profile allows you to personalize your experience.
-
-You can:
-
-* Update your profile picture.
-* Change your display name.
-* Edit your bio.
-* View bookmarked articles.
-* Review your reading history.
-* Manage followed authors.
-
-***
-
-### Account Settings
-
-From the Settings page, you can:
-
-* Change your password.
-* Update your email address.
-* Manage notification preferences.
-* Enable two-factor authentication.
-* Control privacy settings.
-* Delete your account if needed.
-
-Keeping your account information up to date helps ensure a secure experience.
-
-***
-
-### Tips for a Better Reading Experience
-
-To get the most out of the platform:
-
-* Follow authors whose work you enjoy.
+* Follow authors whose content you enjoy.
 * Bookmark articles you want to revisit.
-* Explore new categories regularly.
-* Use search filters to discover relevant content.
-* Join discussions by leaving thoughtful comments.
-* Check your personalized recommendations for new reading ideas.
+* Explore different categories.
+* Use search to quickly find relevant content.
+* Join discussions by commenting on articles.
+* Check your recommendations regularly.
 
 ***
 
-### Need Help?
+## Need help?
 
-If you have questions or encounter any issues while using the platform:
+If you need assistance:
 
-* Visit the Help Center.
-* Browse the Frequently Asked Questions (FAQ).
+* Visit the **Help Center**.
+* Browse the **Frequently Asked Questions (FAQ)**.
 * Contact the support team.
-* Report bugs or provide feedback through the support page.
+* Report bugs or submit feedback through the support page.
 
-We're here to help you enjoy a smooth and engaging reading experience.
+For more detailed information about individual features, see the related documentation for Search, Bookmarks, Notifications, Account Settings, and Support.
