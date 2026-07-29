@@ -1,6 +1,6 @@
 # Getting started
 
-Welcome to the getting started guide for Owlog. This section will help you create an account, sign in, and begin exploring the platform.
+Welcome to the getting started guide for Owlog. This section will help you create an account, sign in, and begin exploring the platform. Happy Blogging :)
 
 By the end of this guide, you will be able to:
 
