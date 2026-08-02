@@ -4,8 +4,9 @@ Welcome to the getting started guide for Owlog. This section will help you creat
 
 By the end of this guide, you will be able to:
 
-* Create and verify your Owlog account.
-* Sign in to the platform.
+* Create your Owlog account and verify your email (email verification is required before signing in).
+* Sign in to the platform (including using the "Remember Me" option and meeting the password minimum of 8 characters).
+* Request a new verification email from the sign-in page if needed.
 * Navigate the homepage and discover content.
 
 ## Pages in this section
