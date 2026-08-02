@@ -11,6 +11,8 @@ Creating an account on Owlog is the first step to unlocking a world of content. 
 
 After creating your account, you will receive an email to verify your email address.
 
+You must verify your email before signing in. If you do not receive the verification email, you can request a new verification email from the login page.
+
 ## Related pages
 
 *   [Verifying your email](/verifying-your-email.md)
